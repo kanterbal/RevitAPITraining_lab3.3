@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab3.3.dll"</Assembly>		
-		<AddInId>299A356C-C570-4C37-A0BF-FB1A9B46EB72</AddInId>
+		<AddInId>8DE42A25-D252-4E61-A0E2-B55898B38A40</AddInId>
 		<FullClassName>RevitAPITraining_lab3._3.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Длина труб с запасом</Text>
